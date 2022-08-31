@@ -1,5 +1,9 @@
 # React grade calculator
 
+## Preview
+
+![](img.png)
+
 ## Features
 
 - Add/remove/update subject details
