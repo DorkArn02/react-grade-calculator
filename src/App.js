@@ -243,7 +243,7 @@ function App() {
             <Text fontWeight={"bold"} fontSize={"3xl"}>{cindex}</Text>
           </VStack>
           <VStack>
-            <Text fontWeight={"sm"} fontSize={"md"} color={"gray"}>Corrigated credit index</Text>
+            <Text fontWeight={"sm"} fontSize={"md"} color={"gray"}>Corrected credit index</Text>
             <Text fontWeight={"bold"} fontSize={"3xl"}>{ccindex}</Text>
           </VStack>
           <VStack>
